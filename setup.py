@@ -13,7 +13,7 @@ PACKAGE_NAME = 'oem-database-anidb-tmdb-show'
 def build_config():
     config = {
         'name': PACKAGE_NAME,
-        'version': '1.16.4',
+        'version': '1.16.0',
 
         'author': 'Dean Gardiner',
         'author_email': 'me@dgardiner.net',
